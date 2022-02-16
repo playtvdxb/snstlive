@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import requests
-import webbrowser,json
+import json
 cookies = {
     'mac': '00%3A1A%3A79%3A2A%3A07%3AA3',
     'stb_lang': 'en',
